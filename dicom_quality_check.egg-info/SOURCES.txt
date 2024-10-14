@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+dicom-quality-check/__init__.py
+dicom-quality-check/core.py
+dicom_quality_check.egg-info/PKG-INFO
+dicom_quality_check.egg-info/SOURCES.txt
+dicom_quality_check.egg-info/dependency_links.txt
+dicom_quality_check.egg-info/requires.txt
+dicom_quality_check.egg-info/top_level.txt
