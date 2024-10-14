@@ -37,7 +37,7 @@ print(f"Artifact count: {artifact_count}")
 
 # Plot image
 core.plot_image(image, title='Your DICOM Image')
-
+ ```
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
