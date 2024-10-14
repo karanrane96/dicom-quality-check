@@ -53,7 +53,7 @@ We welcome contributions to improve this package. If you would like to report is
 
 Support
 
-If you encounter any issues or have any questions, please feel free to open an issue on the GitHub repository or contact us via email at your.email@example.com.
+If you encounter any issues or have any questions, please feel free to open an issue on the GitHub repository.
 
 Acknowledgments
 
